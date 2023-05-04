@@ -1,6 +1,7 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 int main(){
+    // I just edited this code by adding this comment//
     int n;
     cin>>n;
     for(int i=1;i<=n;i++){
@@ -8,4 +9,5 @@ int main(){
         cout<<"*\t";}
         cout<<endl;
     }
+    return 0;
 }
